@@ -1,0 +1,11 @@
+﻿  Bee.cpp
+E:\Programy\Projekty\Visual Studio\SO2 - projekt\Bee.hpp(19,29): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Flower.cpp
+E:\Programy\Projekty\Visual Studio\SO2 - projekt\Flower.cpp(9,16): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  main.cpp
+E:\Programy\Projekty\Visual Studio\SO2 - projekt\Bee.hpp(19,29): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Visualisation.cpp
+E:\Programy\Projekty\Visual Studio\SO2 - projekt\Bee.hpp(19,29): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+E:\Programy\Projekty\Visual Studio\SO2 - projekt\Visualisation.cpp(39,31): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+  Generowanie kodu...
+  SO2 - projekt.vcxproj -> E:\Programy\Projekty\Visual Studio\SO2 - projekt\x64\Debug\SO2 - projekt.exe
